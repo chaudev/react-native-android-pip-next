@@ -1,0 +1,21 @@
+{
+  "name": "react-native-android-next",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaudev/react-native-android-pip-next"
+  },
+  "description": "React Native Android Pip Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Chau Nguyen, Chau Sama",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
